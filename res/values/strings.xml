@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RellenaFormActivity!</string>
+    <string name="app_name">RellenaForm</string>
+    <string name="Instrucciones">Rellena el formulario</string>
+    <string name="Bienvenida">YUyi gives you a handsake!</string>
+    <string name="Descripcion">Esta aplicación es para probar como se rellenan los formularios Checkbox...</string>
+    <string name="TitleDescripcion">Descripción:</string>
+    <string name="TitleInstrucciones">Instrucciones:</string>
+    <string name="LabelNombre">Nombre</string>
+    <string name="BotonEnviarFormulario">Enviar Solicitud</string>
+    <string name="LabelPruebaBorrar">Prueba</string>
+    <string name="TextBorrar">Esto es una prueba, esta zona tiene que ser borrada</string>
+    <string name="Mostrar">Mostrar</string>
+
+</resources>
